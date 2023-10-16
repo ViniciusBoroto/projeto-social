@@ -40,3 +40,8 @@ iframe#tela {
     width: 267px;
     height: 472px;
 }
+
+a {
+    height: 50px;
+    width: 50px;
+}
